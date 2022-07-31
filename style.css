@@ -7,7 +7,7 @@
 }
 .navbar{
     display: flex;
-    margin-top: -8px; 
+    margin-top: 8px; 
     background-image: radial-gradient(#f8be00, #ee4b2b);
     justify-content: center;
 }
