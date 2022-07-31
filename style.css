@@ -1,0 +1,40 @@
+.navbar{
+    display: flex;
+    margin-top: -8px; 
+    background-image: radial-gradient(#f8be00, #ee4b2b);
+    justify-content: center;
+}
+.navbar-heading {
+    display: flex;
+    font-size: 20px;
+    font-weight: 500;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;   
+}
+.Machu_Picchu img{
+    height: 700px;
+    width: 100%;
+}
+.Great_Wall_Of_China img{
+    height: 700px;
+    width: 100%;
+}
+.Petra img{
+    height: 700px;
+    width: 100%;
+}
+.Colosseum img{
+    height: 700px;
+    width: 100%;
+}
+.Chichen_Itza img{
+    height: 700px;
+    width: 100%;
+}
+.Taj_Mahal img{
+    height: 700px;
+    width: 100%;
+}
+.Christ_the_Redeemer img{
+    height: 700px;
+    width: 100%;
+}
